@@ -5,7 +5,28 @@ h1
 	text-shadow: red -3px 0, cyan 3px 0;
 }
 
+P
+{
+	text-align: center;
+	font-size: 8vw;
+	text-shadow: red -3px 0, cyan 3px 0;
+}
+
+
 body
 {
 	background-color:yellow;
 }
+
+
+div#example
+	{
+	margin: 0;
+	padding: 0;
+	list-style-type:none;
+	backface-visibility: hidden;
+	margin-right:35%;
+	margin-left:5%;
+	margin-bottom:5%;
+	margin-top:5%;
+	}
