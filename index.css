@@ -1,6 +1,8 @@
 h1
 {
-  color:red;
+    text-align: center;
+		font-size: 8vw;
+		text-shadow: red -3px 0, cyan 3px 0;
 }
 
 body
